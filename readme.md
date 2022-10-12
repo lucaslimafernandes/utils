@@ -6,11 +6,17 @@ Bloco de funções úteis para uso
 
 '''
 git init
+
 git add *
+
 git status
+
 git commit -m '{message}'
+
 git branch -M main
+
 git remote add origin {ssh}
+
 git push -u origin main
 '''
 
@@ -18,6 +24,8 @@ git push -u origin main
 
 '''
 pasta/
+
 .extensão
+
 *tudoquevemantes
 '''
