@@ -4,28 +4,27 @@ Bloco de funções úteis para uso
 
 ## Github
 
-'''
-git init
 
-git add *
+> git init
 
-git status
+> git add *
 
-git commit -m '{message}'
+> git status
 
-git branch -M main
+> git commit -m '{message}'
 
-git remote add origin {ssh}
+> git branch -M main
 
-git push -u origin main
-'''
+> git remote add origin {ssh}
+
+> git push -u origin main
+
 
 ### .gitignore
 
-'''
-pasta/
+> pasta/
 
-.extensão
+> .extensão
 
-*tudoquevemantes
-'''
+> *tudoquevemantes
+
